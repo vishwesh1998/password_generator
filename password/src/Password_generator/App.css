@@ -1,0 +1,32 @@
+.main_container{
+    margin: 450px;
+    padding: 40px;
+    background: darkcyan;
+    color: white;
+}
+
+.progress_main_container{
+    /* background: grey; */
+    width: 25%;
+    height: 30px;
+    border-radius: 25px;
+    margin: 30px 0px 10px 550px;
+    color: white;   
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+.progress_main_container div{
+    background-color: darkcyan;
+    border-radius: 25px;
+    height: 100%;
+    /* width: 25%; */
+}
+
+.progress_bar{
+    margin-left: 180px;
+}
+
+.info_tag{
+    margin-left: 630px;
+}
